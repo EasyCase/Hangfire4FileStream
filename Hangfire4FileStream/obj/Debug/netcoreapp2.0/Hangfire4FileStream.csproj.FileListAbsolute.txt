@@ -1,0 +1,11 @@
+c:\users\admin\source\repos\Hangfire4FileStream\Hangfire4FileStream\bin\Debug\netcoreapp2.0\Hangfire4FileStream.deps.json
+c:\users\admin\source\repos\Hangfire4FileStream\Hangfire4FileStream\bin\Debug\netcoreapp2.0\Hangfire4FileStream.runtimeconfig.json
+c:\users\admin\source\repos\Hangfire4FileStream\Hangfire4FileStream\bin\Debug\netcoreapp2.0\Hangfire4FileStream.runtimeconfig.dev.json
+c:\users\admin\source\repos\Hangfire4FileStream\Hangfire4FileStream\bin\Debug\netcoreapp2.0\Hangfire4FileStream.dll
+c:\users\admin\source\repos\Hangfire4FileStream\Hangfire4FileStream\obj\Debug\netcoreapp2.0\Hangfire4FileStream.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Hangfire4FileStream\Hangfire4FileStream\obj\Debug\netcoreapp2.0\Hangfire4FileStream.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\Hangfire4FileStream\Hangfire4FileStream\obj\Debug\netcoreapp2.0\Hangfire4FileStream.AssemblyInfo.cs
+c:\users\admin\source\repos\Hangfire4FileStream\Hangfire4FileStream\bin\Debug\netcoreapp2.0\Hangfire4FileStream.pdb
+c:\users\admin\source\repos\Hangfire4FileStream\Hangfire4FileStream\obj\Debug\netcoreapp2.0\Hangfire4FileStream.dll
+c:\users\admin\source\repos\Hangfire4FileStream\Hangfire4FileStream\obj\Debug\netcoreapp2.0\Hangfire4FileStream.pdb
+c:\users\admin\source\repos\Hangfire4FileStream\Hangfire4FileStream\bin\Debug\netcoreapp2.0\appsettings.json
